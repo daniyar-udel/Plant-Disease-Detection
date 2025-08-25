@@ -6,6 +6,14 @@ This project focuses on the development of a deep learning model for plant disea
 **Plant species included:**
 Tomato, Apple, Blueberry, Grape, Peach, Corn, Cherry, Squash, Strawberry, Pepper, Orange, Potato, Raspberry, Soybean.
 
+## Dataset
+The dataset used in this project is publicly available at:  
+[PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
+
+- ~70,000 training images
+- ~17,000 testing images
+- 38 plant disease categories across 14 plant species
+
 ---
 
 ## Methodology
