@@ -16,7 +16,7 @@ Tomato, Apple, Blueberry, Grape, Peach, Corn, Cherry, Squash, Strawberry, Pepper
 
 **Dataset:**
 The dataset used in this project is publicly available at:  
-[PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+[Plant Diseases Dataset on Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 - ~70,295 training images  
 - ~17,572 testing images  
 - Images resized to **128×128** for efficiency.  
